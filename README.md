@@ -421,7 +421,7 @@ from your [system’s `PATH` environmental variable][PATH] unless you
 override it by setting the `webdriver.gecko.driver` [Java VM system
 property]:
 
-	System.setProperty("webdriver.gecko.driver", "/home/user/bin");
+	System.setProperty("webdriver.gecko.driver", "/home/user/bin/geckodriver");
 
 Or by passing it as a flag to the [java(1)] launcher:
 
