@@ -425,7 +425,7 @@ property]:
 
 Or by passing it as a flag to the [java(1)] launcher:
 
-	% java -Dwebdriver.gecko.driver=/home/user/bin YourApplication
+	% java -Dwebdriver.gecko.driver=/home/user/bin/geckodriver YourApplication
 
 Your milage with this approach may vary based on which programming
 language bindings you are using.  It is in any case generally the case
